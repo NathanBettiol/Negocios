@@ -48,7 +48,5 @@ public class Pessoa {
         this.dataCadastro = dataCadastro;
     }
    
-   
-    asdf
     
 }
