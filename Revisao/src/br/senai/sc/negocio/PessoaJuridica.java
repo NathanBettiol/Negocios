@@ -9,7 +9,7 @@ package br.senai.sc.negocio;
  * @version 1.0 31/07/13
  * @author nathan_bettiol
  */
-public class PessoaJuridica {
+public class PessoaJuridica extends Pessoa{
     
     private String cnpj;
     private String razaoSocial;
@@ -39,5 +39,7 @@ public class PessoaJuridica {
         this.nomeFantasia = nomeFantasia;
     }
     
+    public PessoaJuridica(){
     
+    }
 }
