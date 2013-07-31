@@ -10,7 +10,7 @@ package br.senai.sc.negocio;
  * @version 1.0 31/07/13
  * @author nathan_bettiol
  */
-public class PessoaFisica {
+public class PessoaFisica extends Pessoa{
 
     private String cpf;
     private String nome;
