@@ -5,8 +5,8 @@
 package br.senai.sc.negocio;
 
 /**
- * Classe que representa todas as Pessoas fisicas
  *
+ * Classe que representa todas as Pessoas fisicas
  * @version 1.0 31/07/13
  * @author nathan_bettiol
  */
