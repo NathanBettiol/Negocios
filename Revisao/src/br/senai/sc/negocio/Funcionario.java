@@ -5,6 +5,7 @@
 package br.senai.sc.negocio;
 
 /**
+ * Classe que representa o Funcionarios do software
  *@version  1.0 31/07/13
  * @author nathan_bettiol
  */
